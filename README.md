@@ -6,9 +6,14 @@
 
   *Планируй экспедиции. Подбирай технику. Доставляй грузы.*
 
-  [![Project](https://img.shields.io/badge/PROJECT-SNOWRUNNER_HELPER-F5A623?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FASBER/SnowRunner-Helper)
-  [![Releases](https://img.shields.io/badge/RELEASES-DOWNLOAD-1679C4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FASBER/SnowRunner-Helper/releases)
+  [![Download latest release](https://img.shields.io/badge/DOWNLOAD-LATEST_VERSION-F5A623?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FASBER/SnowRunner-Helper/releases/latest)
+  [![Project](https://img.shields.io/badge/PROJECT-SNOWRUNNER_HELPER-1679C4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FASBER/SnowRunner-Helper)
   [![Issues](https://img.shields.io/badge/FEEDBACK-ISSUES-38465A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FASBER/SnowRunner-Helper/issues)
+
+  [![Latest release](https://img.shields.io/github/v/release/FASBER/SnowRunner-Helper?label=Version&color=F5A623&style=flat-square)](https://github.com/FASBER/SnowRunner-Helper/releases/latest)
+  [![Release asset downloads](https://img.shields.io/github/downloads/FASBER/SnowRunner-Helper/total?label=Release%20downloads&color=1679C4&style=flat-square)](https://github.com/FASBER/SnowRunner-Helper/releases)
+  [![Windows build](https://github.com/FASBER/SnowRunner-Helper/actions/workflows/release.yml/badge.svg)](https://github.com/FASBER/SnowRunner-Helper/actions/workflows/release.yml)
+  [![Tests](https://github.com/FASBER/SnowRunner-Helper/actions/workflows/checks.yml/badge.svg?branch=main)](https://github.com/FASBER/SnowRunner-Helper/actions/workflows/checks.yml)
 </div>
 
 ---
@@ -33,9 +38,47 @@
 - Уточнение характеристик грузов и данных игровых файлов.
 - Улучшение интерфейса и интеграции с сохранениями.
 
-### ⬇️ Версии и обновления
+### 🖼️ Интерфейс приложения
 
-Актуальные публикации, если они доступны, находятся в [GitHub Releases](https://github.com/FASBER/SnowRunner-Helper/releases). Инструкции по запуску и сборке — в [репозитории проекта](https://github.com/FASBER/SnowRunner-Helper).
+Галерея будет дополнена реальными скриншотами актуальной версии приложения.
+
+### ⬇️ Скачать и обновить
+
+<div align="center">
+
+[![Download latest release](https://img.shields.io/badge/DOWNLOAD-LATEST_VERSION-F5A623?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FASBER/SnowRunner-Helper/releases/latest)
+
+</div>
+
+На странице последнего стабильного релиза разверните **Assets** и скачайте установщик `SnowRunnerHelper_Setup_v*.exe`. Файл `update.json` предназначен для механизма обновлений.
+
+| Показатель | Текущие данные |
+| :--- | :--- |
+| Последний стабильный релиз | [![Latest release](https://img.shields.io/github/v/release/FASBER/SnowRunner-Helper?label=Version&color=F5A623&style=flat-square)](https://github.com/FASBER/SnowRunner-Helper/releases/latest) |
+| Загрузки файлов всех релизов | [![Release asset downloads](https://img.shields.io/github/downloads/FASBER/SnowRunner-Helper/total?label=Release%20downloads&color=1679C4&style=flat-square)](https://github.com/FASBER/SnowRunner-Helper/releases) |
+| Сборка и публикация Windows | [![Windows build](https://github.com/FASBER/SnowRunner-Helper/actions/workflows/release.yml/badge.svg)](https://github.com/FASBER/SnowRunner-Helper/actions/workflows/release.yml) |
+| Автоматические тесты | [![Tests](https://github.com/FASBER/SnowRunner-Helper/actions/workflows/checks.yml/badge.svg?branch=main)](https://github.com/FASBER/SnowRunner-Helper/actions/workflows/checks.yml) |
+
+<sub>Показатели обновляются автоматически по данным GitHub; возможна задержка кэширования. Счётчик учитывает все файлы релизов, включая манифесты обновлений, а не только установщики или уникальных пользователей.</sub>
+
+### 📋 История обновлений
+
+- [Последний стабильный релиз](https://github.com/FASBER/SnowRunner-Helper/releases/latest) — текущая версия и файлы.
+- [Все версии](https://github.com/FASBER/SnowRunner-Helper/releases) — автоматически пополняемая история публикаций.
+- [Подробная история изменений](https://github.com/FASBER/SnowRunner-Helper/blob/main/CHANGELOG.txt) — CHANGELOG проекта.
+- [История коммитов](https://github.com/FASBER/SnowRunner-Helper/commits/main/) — изменения исходного кода.
+
+### 📊 Статистика GitHub
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/FASBER?label=Followers&color=1679C4&style=for-the-badge&logo=github)](https://github.com/FASBER?tab=followers) [![Stars](https://img.shields.io/github/stars/FASBER/SnowRunner-Helper?label=Stars&color=F5A623&style=for-the-badge&logo=github)](https://github.com/FASBER/SnowRunner-Helper/stargazers) [![Forks](https://img.shields.io/github/forks/FASBER/SnowRunner-Helper?label=Forks&color=38465A&style=for-the-badge&logo=github)](https://github.com/FASBER/SnowRunner-Helper/forks)
+
+[![Open issues](https://img.shields.io/github/issues/FASBER/SnowRunner-Helper?label=Open%20issues&style=flat-square&color=1679C4)](https://github.com/FASBER/SnowRunner-Helper/issues) [![Last commit](https://img.shields.io/github/last-commit/FASBER/SnowRunner-Helper/main?label=Last%20commit&style=flat-square&color=F5A623)](https://github.com/FASBER/SnowRunner-Helper/commits/main/)
+
+[Активность профиля FASBER](https://github.com/FASBER) · [Репозитории](https://github.com/FASBER?tab=repositories)
+
+</div>
 
 ### 🛠️ Технологии
 
